@@ -7,7 +7,7 @@ This project demonstrates **Infrastructure as Code (IaC)** using **Terraform** t
 ## 📌 Assignment Requirements
 
 1. **Sign up for AWS Free Tier**  
-   Use your own AWS Free Tier account for this project.
+   Use your own AWS Free Tier account for this project..
 
 2. **Spin up an EC2 instance**  
    - Instance type is configurable (`t3.micro` by default).  

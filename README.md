@@ -89,8 +89,5 @@ Destroy resources     :  terraform destroy -var-file="dev_config.tfvars" -auto-a
 
 **Screenshots**
 
-<img width="938" height="449" alt="Screenshot 2025-09-22 133206" src="https://github.com/user-attachments/assets/d51a3281-2924-45a1-b644-fe12a3b88279" />
+<img width="1919" height="1004" alt="output" src="https://github.com/user-attachments/assets/b4318234-0f30-4bed-b893-c85ccf0bf804" />
 
-
-
-<img width="1919" height="1004" alt="output" src="https://github.com/user-attachments/assets/e81ebf2e-d8ea-4501-a98b-45891325956c" />

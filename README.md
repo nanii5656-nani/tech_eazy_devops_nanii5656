@@ -92,3 +92,7 @@ Destroy resources     :  terraform destroy -var-file="dev_config.tfvars" -auto-a
 ![output](https://github.com/user-attachments/assets/b4318234-0f30-4bed-b893-c85ccf0bf804)
 
 
+![output](https://github.com/username/repo-name/blob/main/images/output.png?raw=true)
+
+
+

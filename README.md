@@ -1,6 +1,6 @@
 # 🚀 Assignment – Automate EC2 Deployment with Terraform
 
-This project demonstrates **Infrastructure as Code (IaC)** using **Terraform** to automate the deployment of an AWS EC2 instance, configure it, deploy an application, and enforce best practices for DevOps.
+This project demonstrates **Infrastructure as Code (IaC)** using **Terraform** to automate the deployment of an AWS EC2 instance and deploy an application.
 
 ---
 
